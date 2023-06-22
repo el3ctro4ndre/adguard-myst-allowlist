@@ -1,1 +1,4 @@
 ||mysterium.network^
+||quality.mysterium.network^
+||location.mysterium.network^
+||hermes3.mysterium.network^
